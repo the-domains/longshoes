@@ -1,0 +1,28 @@
+name: longshoes
+favicon: null
+layout_spectrum: 0.15017264639027417
+typography_spectrum: 0.9274426689371467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9556250302121043
+  lightness: 0.15999841084703803
+  saturation: 0.7345537499058992
+  rhythmicContrast: 0.3460496615152806
+purpose: []
